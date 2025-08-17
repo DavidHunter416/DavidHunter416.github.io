@@ -1,31 +1,17 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio</title>
-  <link rel="stylesheet" href="style.css" />
+David Hunter
 </head>
 <body>
-  <nav>
-    <a href="index.html">About Me</a>
-    <a href="portfolio.html">Portfolio</a>
-    <a href="contact.html">Contact</a>
-  </nav>
 
-  <div class="container">
-    <h1>Portfolio</h1>
-    <div class="photo-placeholder">Project Image Placeholder</div>
-    <h2>Urban Tree Canopy Analysis</h2>
-    <p>Mapped and analyzed canopy cover using LiDAR and multispectral imagery for a municipal green initiative.</p>
+<h1>Geographic Information Systems Portfolio</h1>
+<p>Here is a collection of samples from my work. These are largely projects that I have completed for my Certificate "Geographic Information Systems for Envoronmental Management"</p>
 
-    <div class="photo-placeholder">Project Image Placeholder</div>
-    <h2>Watershed Delineation Project</h2>
-    <p>Used hydrological modeling tools in ArcGIS Pro to identify watershed boundaries and model water flow.</p>
-  </div>
+<h2> School and Noise Contour</h2>
+<p>This layout compares the distance of Local Schools to an airport where the sound take offs and landing could be particularly disruptive. Schools within the Noise Contour should be considered for improved sound isolation measures.</p>
 
-  <footer>
-    &copy; 2025 Your Name — GIS Portfolio
-  </footer>
+
 </body>
 </html>
