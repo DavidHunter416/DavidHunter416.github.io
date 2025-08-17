@@ -11,7 +11,7 @@ David Hunter
 
 <h2> School and Noise Contour</h2>
 <p>This layout compares the distance of Local Schools to an airport where the sound take offs and landing could be particularly disruptive. Schools within the Noise Contour should be considered for improved sound isolation measures.</p>
-<img src="computer-1591018_1280.jpg" alt="W3Schools.com" width="104" height="142">
+<img src="/images/computer-1591018_1280.jpg" alt="W3Schools.com" width="500" height="142">
 
 </body>
 </html>
