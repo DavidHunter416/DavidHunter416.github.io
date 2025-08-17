@@ -6,7 +6,7 @@ David Hunter
 </head>
 <body>
 
-<h1>Geographic Information Systems Portfolio</h1>
+<h1 style="font-size:10;">Geographic Information Systems Portfolio</h1>
 <p>Here is a collection of samples from my work. These are largely projects that I have completed for my Certificate "Geographic Information Systems for Envoronmental Management"</p>
 
 <h2> School and Noise Contour</h2>
