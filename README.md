@@ -25,13 +25,16 @@
 <h2>Forest Fire Spread</h2>
 <p>This layout calculates the spread of a fire from the ignition point of Camp Site 40. I used cost analysis accounting for varying elevation, vegitation, streams, wind and I sample how the fire would have spread at different times of the day as it progressed. I also accounted for the changing horizontal wind factor as wind speed and direction change throughout the day.</p>
 <img src="Assignment 3 Final Layout.jpg" alt="Campfire Spread Layout" width="1100" height="850">
+<br>
+<br>
+<br>
+<br>
 
 
 
-
-
-
-
+<h2>Land Use Around Stelco Brownfield Site</h2>
+<p>This show the various land use types and surrounding infrastructure by Stelco Brownfield Site. This layout combines georeferenced satelltie imagery with land use vector data and road types</p>
+<img src="Map3.jpg" alt="StelcoSite" width="850" height="1100">
 
 
 
