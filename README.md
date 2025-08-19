@@ -13,13 +13,18 @@
 
 <h2>Clustering of Pollutants in Canada</h2>
 <p>This layout analyzes the clustering of various types of pollutants in Canada. I also include a table with statistical measures of clustering and it's likelyhood.</p>
-<img src="Pollution Layout Draft 1.jpg" alt="Pollution Layout Draft 1.jpg" width="850" height="1100">
+<img src="Pollution Layout Draft 1.jpg" alt="Pollution Clustering Layout" width="850" height="1100">
 
 <br>
 <br>
 <br>
 <br>
 
+
+
+<h2>Forest Fire Spread</h2>
+<p>This layout calculates the spread of a fire from the ignition point of Camp Site 40. I used cost analysis accounting for varying elevation, vegitation, streams, wind and I sample how the fire would have spread at different times of the day as it progressed. I also accounted for the changing horizontal wind factor as wind speed and direction change throughout the day.</p>
+<img src="Assignment 3 Final Layout.jpg" alt="Campfire Spread Layout" width="1100" height="850">
 
 
 
