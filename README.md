@@ -6,7 +6,7 @@
 <b>
 <p>Here is a collection of samples from my work. These are largely projects that I have completed for my Certificate in GIS</p>
 
-<h2> School and Noise Contour</h2>
+<h2>Clustering of Pollutants in Canada</h2>
 <p>This layout compares the distance of Local Schools to an airport where the sound take offs and landing could be particularly disruptive. Schools within the Noise Contour should be considered for improved sound isolation measures.</p>
 <img src="/images/computer-1591018_1280.jpg" alt="W3Schools.com" width="500" height="142">
 
