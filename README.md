@@ -1,6 +1,6 @@
-<!DOCTYPE html>
+
 <html>
-  <img src="Portfolio Header.jpg" alt="GIS Header" width="1700" height="900">
+  <img src="Portfolio Header.jpg" alt="GIS Header">
 <br>
 
 
