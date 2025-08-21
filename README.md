@@ -45,7 +45,7 @@
 
 
 <h1>ESRI Certificates</h1>
-<object data="David Esri Certificates August 2025.pdf" width="1100" height="850" type='application/pdf'/>
+<object src="David Esri Certificates August 2025.pdf" width="1100" height="850" type='application/pdf'/>
 
 
 
