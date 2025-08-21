@@ -45,10 +45,47 @@
 
 
 <h1>ESRI Certificates</h1>
-<object src="David Esri Certificates August 2025.pdf" width="1100" height="850" type='application/pdf'/>
+<img src="David Esri Certificates August 2025.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-2.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-3.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-4.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-5.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-6.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-7.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-8.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-9.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-10.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-11.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-12.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-13.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-14.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-15.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-16.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-17.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-19.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-20.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-21.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-22.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-23.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-24.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-25.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-26.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-27.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-28.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-29.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-30.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-31.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-32.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-33.jpg" alt="Esri Certificate" width="1100" height="850">
+<img src="David Esri Certificates August 2025-34.jpg" alt="Esri Certificate" width="1100" height="850">
 
 
 
 
 
+
+
+
+
+<p>This website was written by David Hunter and hosted by GitHub</p>
 
