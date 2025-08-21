@@ -1,8 +1,7 @@
-<body>
-<br>
+
   <img src="Portfolio Header.jpg" alt="GIS Header" width="1600" height="900">
 <br>
-<br>
+
 
 
 <h2>Clustering of Pollutants in Canada</h2>
@@ -82,4 +81,4 @@
 
 
 <p>This website was written by David Hunter and hosted by GitHub</p>
-</body>
+
