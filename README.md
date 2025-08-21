@@ -1,6 +1,6 @@
 <body>
 <br>
-<img src="Portfolio Header.jpg" alt="Header" width="1600" height="900">
+  <img src="Portfolio Header.jpg" alt="GIS Header" width="1600" height="900">
 <br>
 <br>
 
