@@ -1,4 +1,4 @@
-
+<body>
 
 <img src="Portfolio Header.jpg" alt="Header" width="1600" height="900">
 <br>
@@ -82,4 +82,4 @@
 
 
 <p>This website was written by David Hunter and hosted by GitHub</p>
-
+</body>
