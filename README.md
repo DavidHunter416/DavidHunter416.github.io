@@ -32,5 +32,18 @@
 <br>
 <br>
 <h2>Different Ways of Representing Elevation</h2>
-<p>This shows the area of Joker's Hill Park, The four different map frames show different ways of representing elevation. The DEM is the raw elevation data in a raster format with a stretch symbology applied to the elevation in metres. The second map frame shows Standard Deviation, this illustrates the rate of change in elevation with the higher valued areas being steeper. The third uses Inverse Distance Weighting, which used sample points to interpolate surrounding elevation. The third is a Triangulated Irregular Network which used the same elevation sample points as the IDW plus hard line elevation data from a streams elevation layer to create a polygonal almost 3D network of triangles. each mothod having their advantages, disadvantages and use cases.</p>
+<p>This shows the area of Joker's Hill Park, A walking trail in Newmarket. The four different map frames show different ways of representing elevation. The DEM is the raw elevation data in a raster format with a stretch symbology applied to the elevation in metres. The second map frame shows Standard Deviation, this illustrates the rate of change in elevation with the higher valued areas being steeper. The third uses Inverse Distance Weighting, which used sample points to interpolate surrounding elevation. The third is a Triangulated Irregular Network which used the same elevation sample points as the IDW plus hard line elevation data from a streams elevation layer to create a polygonal almost 3D network of triangles. Each mothod having their advantages, disadvantages and use cases.</p>
 <img src="Jokers hill DEM representations.jpg" alt="Joker's Hill Elevation" width="850" height="1100">
+
+<br>
+<br>
+<br>
+<br>
+<h2>Joker's Hill Raster Operations</h2>
+<p>These map frames show various operations performed on a raster of the area of Joker's Hill. the first is basica land use classification. The second frame isolated the "forested area" and performs a distance accumulation function to classify the distance into the forested area of Joker's Hill. The third frame uses an elevation raster and slope to calculate the average aspect of Joker's Hill.</p>
+<img src="Joker's Hill Raster Analysis.jpg" alt="Joker's Hill Raster Analysis" width="850" height="1100">
+
+
+
+
+
