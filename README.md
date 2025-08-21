@@ -2,7 +2,7 @@
 <html>
   <img src="Header2.jpg" alt="GIS Header">
 <br>
-
+<br>
 
 
 <h2>Clustering of Pollutants in Canada</h2>
