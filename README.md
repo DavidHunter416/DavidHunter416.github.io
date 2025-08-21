@@ -44,6 +44,11 @@
 <img src="Joker's Hill Raster Analysis.jpg" alt="Joker's Hill Raster Analysis" width="850" height="1100">
 
 
+<h1>ESRI Certificates</h1>
+<object data="David Esri Certificates August 2025.pdf" width="1100" height="850" type='application/pdf'/>
+
+
+
 
 
 
