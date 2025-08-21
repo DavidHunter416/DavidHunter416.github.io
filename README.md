@@ -3,10 +3,7 @@
 <img src="Portfolio Header.jpg" alt="Header" width="1600" height="900">
 
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 <h2>Clustering of Pollutants in Canada</h2>
 <p>This layout analyzes the clustering of various types of pollutants in Canada. I also include a table with statistical measures of clustering and it's likelyhood.</p>
