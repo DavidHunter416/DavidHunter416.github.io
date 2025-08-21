@@ -1,6 +1,6 @@
 
 <html>
-  <img src="Portfolio Header.jpg" alt="GIS Header">
+  <img src="Header2.jpg" alt="GIS Header">
 <br>
 
 
